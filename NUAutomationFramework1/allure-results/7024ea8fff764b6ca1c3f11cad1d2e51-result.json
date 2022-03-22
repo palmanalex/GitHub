@@ -1,0 +1,64 @@
+{
+  "uuid": "7e7aad42-3d8b-456c-b8b2-0dd71f4007ea-tr-0-1001",
+  "historyId": "NUAutomationFramework1.Tests.AddSimpleTaskTest.TC01_Page1",
+  "fullName": "NUAutomationFramework1.Tests.AddSimpleTaskTest.TC01_Page1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "ILTELPC530"
+    },
+    {
+      "name": "package",
+      "value": "NUAutomationFramework1.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC01_Page1"
+    },
+    {
+      "name": "testClass",
+      "value": "AddSimpleTaskTest"
+    }
+  ],
+  "links": [],
+  "name": "TC01_Page1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TC01_Page1"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TC01_Page1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "bb40d5681e134246884a43db2a1b4994-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1646912211510,
+      "stop": 1646912215709
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1646912211509,
+  "stop": 1646912215712
+}

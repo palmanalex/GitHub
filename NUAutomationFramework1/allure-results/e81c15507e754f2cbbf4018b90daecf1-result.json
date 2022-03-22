@@ -1,0 +1,64 @@
+{
+  "uuid": "a7cebda2-d0dc-4827-9507-6a1590cfb57d-tr-0-1007",
+  "historyId": "NUAutomationFramework1.Tests.SearchTaskTest.TC04_Page4",
+  "fullName": "NUAutomationFramework1.Tests.SearchTaskTest.TC04_Page4",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "ILTELPC530"
+    },
+    {
+      "name": "package",
+      "value": "NUAutomationFramework1.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC04_Page4"
+    },
+    {
+      "name": "testClass",
+      "value": "SearchTaskTest"
+    }
+  ],
+  "links": [],
+  "name": "TC04_Page4",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TC04_Page4"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TC04_Page4",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "0fad99adfc0542f198ded17ec472dd44-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1646912246535,
+      "stop": 1646912252295
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1646912246535,
+  "stop": 1646912252295
+}

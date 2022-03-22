@@ -1,0 +1,64 @@
+{
+  "uuid": "cf0fce62-a328-434a-a508-a6d5163788bc-tr-0-1005",
+  "historyId": "NUAutomationFramework1.Tests.ListTest.TC03_Page3",
+  "fullName": "NUAutomationFramework1.Tests.ListTest.TC03_Page3",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "ILTELPC530"
+    },
+    {
+      "name": "package",
+      "value": "NUAutomationFramework1.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC03_Page3"
+    },
+    {
+      "name": "testClass",
+      "value": "ListTest"
+    }
+  ],
+  "links": [],
+  "name": "TC03_Page3",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TC03_Page3"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TC03_Page3",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "dc0fffaff4e44b09941eff1fc914ba30-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1646912233207,
+      "stop": 1646912243112
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1646912233207,
+  "stop": 1646912243112
+}

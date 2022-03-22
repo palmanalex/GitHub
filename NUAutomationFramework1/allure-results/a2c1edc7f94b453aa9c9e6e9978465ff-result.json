@@ -1,0 +1,67 @@
+{
+  "uuid": "c7ada544-be0d-4d55-8870-18ec8d1ca2d4-tr-0-1003",
+  "historyId": "NUAutomationFramework1.Tests.AdvancedTasksTest.TC02_Page2",
+  "fullName": "NUAutomationFramework1.Tests.AdvancedTasksTest.TC02_Page2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "ILTELPC530"
+    },
+    {
+      "name": "package",
+      "value": "NUAutomationFramework1.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC02_Page2"
+    },
+    {
+      "name": "testClass",
+      "value": "AdvancedTasksTest"
+    }
+  ],
+  "links": [],
+  "name": "TC02_Page2",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 14 but was 10. Strings differ at index 0.\r\n  Expected: \"myAdvancedTask\"\r\n  But was:  \"First Task\"\r\n  -----------^\r\n",
+    "trace": "   at NUAutomationFramework1.Tests.AdvancedTasksTest.TC02_Page2() in C:\\Users\\iltelalpa\\source\\repos\\Course Automation\\3Course Selenium\\HomeWork\\Automation4\\Post\\NUAutomationFramework\\NUAutomationFramework1\\NUAutomationFramework1\\Tests\\AdvancedTasksTest.cs:line 26\r\n"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TC02_Page2",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected string length 14 but was 10. Strings differ at index 0.\r\n  Expected: \"myAdvancedTask\"\r\n  But was:  \"First Task\"\r\n  -----------^\r\n",
+        "trace": "   at NUAutomationFramework1.Tests.AdvancedTasksTest.TC02_Page2() in C:\\Users\\iltelalpa\\source\\repos\\Course Automation\\3Course Selenium\\HomeWork\\Automation4\\Post\\NUAutomationFramework\\NUAutomationFramework1\\NUAutomationFramework1\\Tests\\AdvancedTasksTest.cs:line 26\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "4ae2f3f4753d4144bc0603deda6a3c98-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1646912220938,
+      "stop": 1646912229677
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1646912220938,
+  "stop": 1646912229677
+}
