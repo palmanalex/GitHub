@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iltelalpa\\source\\repos\\Course Automation\\3Course Selenium\\HomeWork\\Automation4\\Post\\NUAutomationFramework\\NUAutomationFramework1Allure\\NUAutomationFramework1\\NUAutomationFramework1.csproj": {}
+    "C:\\Users\\iltelalpa\\source\\repos\\Course\\4CourseAutomationGit\\GitProject2\\NUAutomationFramework1\\NUAutomationFramework1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iltelalpa\\source\\repos\\Course Automation\\3Course Selenium\\HomeWork\\Automation4\\Post\\NUAutomationFramework\\NUAutomationFramework1Allure\\NUAutomationFramework1\\NUAutomationFramework1.csproj": {
+    "C:\\Users\\iltelalpa\\source\\repos\\Course\\4CourseAutomationGit\\GitProject2\\NUAutomationFramework1\\NUAutomationFramework1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iltelalpa\\source\\repos\\Course Automation\\3Course Selenium\\HomeWork\\Automation4\\Post\\NUAutomationFramework\\NUAutomationFramework1Allure\\NUAutomationFramework1\\NUAutomationFramework1.csproj",
+        "projectUniqueName": "C:\\Users\\iltelalpa\\source\\repos\\Course\\4CourseAutomationGit\\GitProject2\\NUAutomationFramework1\\NUAutomationFramework1.csproj",
         "projectName": "NUAutomationFramework1",
-        "projectPath": "C:\\Users\\iltelalpa\\source\\repos\\Course Automation\\3Course Selenium\\HomeWork\\Automation4\\Post\\NUAutomationFramework\\NUAutomationFramework1Allure\\NUAutomationFramework1\\NUAutomationFramework1.csproj",
+        "projectPath": "C:\\Users\\iltelalpa\\source\\repos\\Course\\4CourseAutomationGit\\GitProject2\\NUAutomationFramework1\\NUAutomationFramework1.csproj",
         "packagesPath": "C:\\Users\\iltelalpa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iltelalpa\\source\\repos\\Course Automation\\3Course Selenium\\HomeWork\\Automation4\\Post\\NUAutomationFramework\\NUAutomationFramework1Allure\\NUAutomationFramework1\\obj\\",
+        "outputPath": "C:\\Users\\iltelalpa\\source\\repos\\Course\\4CourseAutomationGit\\GitProject2\\NUAutomationFramework1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QeuDPvDxXjQwhBZWtMZ0wwy1L21Muh1IxxwcTL0J8oES4+v8bU9O+qUCs46dKIn9YKMk5TzDH4G3eDqQvlXO4g==",
+  "dgSpecHash": "66+q1Rli29zlukQUHpoAvlapGGb3MYOk36pTkm+T1fPHq7csvNU3vSJBTBcsyw03Sifhh6616CmbJo2qiWuPyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iltelalpa\\source\\repos\\Course Automation\\3Course Selenium\\HomeWork\\Automation4\\Post\\NUAutomationFramework\\NUAutomationFramework1Allure\\NUAutomationFramework1\\NUAutomationFramework1.csproj",
+  "projectFilePath": "C:\\Users\\iltelalpa\\source\\repos\\Course\\4CourseAutomationGit\\GitProject2\\NUAutomationFramework1\\NUAutomationFramework1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iltelalpa\\.nuget\\packages\\allure.commons\\3.5.0.73\\allure.commons.3.5.0.73.nupkg.sha512",
     "C:\\Users\\iltelalpa\\.nuget\\packages\\aspectinjector\\2.6.0\\aspectinjector.2.6.0.nupkg.sha512",
